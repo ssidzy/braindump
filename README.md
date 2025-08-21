@@ -1,7 +1,3 @@
-Perfect — since you’ve renamed the repo to **`braindump`**, the README should reflect that it’s not *only* embedded systems, but a broader, evolving knowledge hub. Here’s a modified version that keeps your structure but aligns with the new repo name:
-
----
-
 # 🧠 Braindump
 
 Welcome to **Braindump** — my personal knowledge hub for everything I’m learning and building.
@@ -35,7 +31,3 @@ This repo is my *digital notebook*, organized so I can revisit concepts, practic
 ---
 
 💡 *This is a living knowledge base — expect it to grow and evolve as I keep learning.*
-
----
-
-Do you want me to also add placeholder **sections for Linux, LLM, and programming languages** so the README looks ready for future expansion, or keep it just focused on Embedded for now?
